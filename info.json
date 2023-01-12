@@ -1,0 +1,8 @@
+{
+  "requirements": [
+    "requests",
+    "unidecode",
+    "bs4"
+    ]
+}
+    
